@@ -1,3 +1,1 @@
-<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <circle stroke="#000000" r="5" cy="10" cx="10" stroke-width="0" fill="#FF0000" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><circle cx="10" cy="10" r="5" fill="red" stroke="#000" stroke-width="0"/></svg>
